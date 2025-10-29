@@ -10,7 +10,7 @@ Currently, I’m focused on enhancing my skills in **MERN Stack** and **Cloud De
 
 💡 **Key Interests:** Web Development, UI/UX, API Design, and Cloud Technologies  
 🎯 **Goal:** To become a versatile software engineer capable of delivering clean, scalable, and impactful solutions.  
-📫 Reach me at **akanksha.mishra@example.com**
+📫 Reach me at **akshu260604@gmail.com**
 
 ---
 
@@ -66,8 +66,8 @@ A personal portfolio to showcase my projects, achievements, and journey.
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/akanksha-mishra" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Akanksha%20Mishra-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/AkankshaMishra" target="blank"><img src="https://img.shields.io/badge/GitHub-AkankshaMishra-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/akankshamishra26" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Akanksha%20Mishra-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/akshu-mishra07" target="blank"><img src="https://img.shields.io/badge/GitHub-AkankshaMishra-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
