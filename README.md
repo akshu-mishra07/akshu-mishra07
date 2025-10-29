@@ -1,4 +1,3 @@
-```{"variant":"standard","title":"Professional GitHub Profile README for Akanksha Mishra","id":"58243"}
 <h1 align="center">👋 Hi, I'm Akanksha Mishra</h1>
 <h3 align="center">💻 Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
@@ -76,4 +75,3 @@ A personal portfolio to showcase my projects, achievements, and journey.
 <p align="center">
   ⭐ “Keep learning, keep building, and stay curious.” ⭐
 </p>
-```
